@@ -1,0 +1,118 @@
+.Nav{
+    height: 80px;
+    background-color: #03121D;
+}
+
+.titulo{
+    text-align: left;
+    color:white;
+    padding-top: 20px;
+}
+
+.nav-link{
+    color:white;
+    text-align: right;
+    padding-top: 25px;
+    
+}
+
+a.nav-link:hover{
+    color:#16959f;
+}
+
+
+.Header{
+    height: 470px;
+    background: linear-gradient(to left, #18A9A9, #0F507E);
+}
+
+.textoHeader{
+    color:white;
+    padding-top: 150px;
+    padding-left: 50px;
+}
+
+.imagemHeader{
+    height:420px;
+    margin: 20px;
+    margin-right: 50px;
+}
+
+.Body{
+    background-color: #DFEEEE;
+}
+
+.textoBody{
+    padding: 30px;
+    color:#03121D;
+}
+
+.card{
+    height: 150px;
+    border-radius:25px;
+}
+
+.Cards{
+    margin-top:30px;
+    color: white;
+    border-radius:25px
+
+}
+
+.card-text{
+    margin-top:10px;
+}
+.card1{
+    padding-top:40px;
+    background-color: #16959f;
+    border-radius:25px
+
+}
+.card2{
+    padding-top:40px;
+    background-color: #148397;
+    border-radius:25px
+}
+.card3{
+    padding-top:40px;
+    background-color: #126D8c;
+    border-radius:25px
+}
+.card4{
+    padding-top:40px;
+    background-color: #105c84;
+    border-radius:25px
+}
+
+.Cadastro{
+    height: 135px;
+    background: linear-gradient(to left, #18A9A9, #0F507E);
+}
+
+.textoCadastro{
+    color: white;
+    padding-top: 50px;
+    padding-left:50px;
+}
+
+.Botao{
+    padding-top:30px;
+}
+
+.btn{
+    height:60px;
+    width: 200px;
+    background-color: #DFEEEE;
+    border: none;
+    text-align: center;
+    box-shadow: 1px 1px 10px #082c45;
+    color:#03121D;
+}
+
+.footer{
+    height: 50px;
+    padding: 10px;
+    background-color: #03121D;
+    color:white;
+    text-align: right;
+}
