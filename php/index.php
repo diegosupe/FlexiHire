@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css"/>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
-    <title>Teste</title>
+    <title>FlexiHire</title>
 </head>
 <body>
     <header>
@@ -18,10 +18,10 @@
                     <h3>FlexiHire</h3>
                 </div>
                 <div class="col-md-2 col-sm-12 my-sm-4 ps-0 text-sm-start text-center link">
-                    <a class="nav-link" href="#">Cadastro</a>
+                    <a class="nav-link" href="./cadastro.html">Cadastro</a>
                 </div>
                 <div class="col-md-2 col-sm-12 my-sm-4 mb-4 ps-0 text-sm-start text-center link">
-                    <a class="nav-link" href="#">Login</a>
+                    <a class="nav-link" href="./login.html">Login</a>
                 </div>
             </div>
         </div>
@@ -107,10 +107,10 @@
                 <h4>Faça parte da comunidade:</h4>
             </div>
             <div class="col-md-3 col-sm-12 my-sm-4 text-sm-start text-center py-sm-0 py-3">
-                <a href="#" class="btn btn-primary border-0">Cadastro de <br/>Funcionário</a>
+                <a href="./cadastroFunc.html" class="btn btn-primary border-0">Cadastro de <br/>Funcionário</a>
             </div>
             <div class="col-md-3 col-sm-12 my-sm-4 mb-4 text-sm-start text-center py-sm-0 py-3">
-                <a href="#" class="btn btn-primary border-0">Cadastro de <br/>Estabelecimento</a>
+                <a href="./cadastroEstab.html" class="btn btn-primary border-0">Cadastro de <br/>Estabelecimento</a>
             </div>
         </div>
     </div>
