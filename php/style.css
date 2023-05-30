@@ -77,9 +77,6 @@ a.nav-link:hover {
     height: 100px;
 }
 
-.link1{
-    background-color: #DFEEEE;
-}
 .textoCadastro{
     color: white;
 }
@@ -97,6 +94,63 @@ a.nav-link:hover {
 
 .footer{
     padding-top: 10px;
+    height: 60px;
     background-color: #03121D;
     color: #DFEEEE;
+}
+
+/* Login */
+.login{
+    height: 505px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Forms{
+    background-color: #DFEEEE;
+}
+
+.btn-secondary{
+    width: 100%;
+    background-color: #03121D !important;
+    color: #DFEEEE !important;
+}
+
+.btn-secondary:hover{
+    background-color: #DFEEEE!important;
+    color: #03121D !important;
+}
+
+
+.branco{
+    color:white;
+}
+
+.pedirsenha{
+    color:white;
+    text-decoration: none;
+}
+
+a.pedirsenha:hover{
+    color:#03121D;
+}
+
+/* Cadastro - Escolher */
+
+.link1{
+    background-color: pink;
+}
+
+.escolher{
+    height: 505px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #DFEEEE;
+}
+
+.escolherCor{
+    background: linear-gradient(to left, #18A9A9, #0F507E);
 }
